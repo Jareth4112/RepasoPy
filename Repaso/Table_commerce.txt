@@ -1,0 +1,22 @@
+﻿id_commerce,name_commerce,category
+3804,Moda Hispana,Vestimenta
+4044,Tunica,Vestimenta
+3835,Aguayo,Vestimenta
+5217,Ketal,Vestimenta
+3565,Súper Cachi,Abarrotes
+4823,Almacenes Hidalgo,Abarrotes
+3864,Gustu,Abarrotes
+3595,Casa del Plato,Comida
+4648,Pachamama,Comida
+3752,Entel,Telefonía
+3505,Tigo,Telefonía
+5422,Mundo Mágico,Entretenimiento
+4585,Inti,Comida
+3683,Pacha,Comida
+4200,Qolla,Comida
+3925,Wayra,Transporte
+4671,Sisa,Transporte
+4312,Apu,Entretenimiento
+4490,Evo,Entretenimiento
+4074,Domitila,Entretenimiento
+3517,Túpac,Entretenimiento
